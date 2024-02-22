@@ -1,4 +1,4 @@
-import { amountFormat } from '../amountFormat';
+import { amountFormat } from '../formatCurrency';
 
 describe('amountFormat', () => {
   it('formats numbers less than 1000 correctly', () => {

@@ -1,7 +1,7 @@
 import { selectorFamily } from 'recoil';
 
 import { companyProgressesFamilyState } from '@/companies/states/companyProgressesFamilyState';
-import { amountFormat } from '~/utils/format/amountFormat';
+import { amountFormat } from '~/utils/format/formatCurrency';
 
 import { recordBoardCardIdsByColumnIdFamilyState } from '../recordBoardCardIdsByColumnIdFamilyState';
 
